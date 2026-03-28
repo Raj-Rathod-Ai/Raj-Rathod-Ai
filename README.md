@@ -56,6 +56,27 @@
 
 ---
 
+## 📊 LeetCode Live Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rathod-Raj-Ai?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🔗 Latest LinkedIn Posts
+
+<!-- START LinkedIn POSTS -->
+<!-- This uses GitHub Action (optional setup) -->
+<p align="center">
+  <a href="https://linkedin.com/in/Raj-Rathod-Ai">
+    <img src="https://img.shields.io/badge/📢%20View%20Latest%20Posts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+<!-- END LinkedIn POSTS -->
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
