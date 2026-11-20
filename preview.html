@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Raj Rathod — README Preview</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown-dark.min.css">
+<style>
+:root{--blue:#2563eb;--soft:#60a5fa;--mint:#86efac;--bg:#0b1220;--panel:#111827;--border:#334155}
+*{box-sizing:border-box}
+body{margin:0;padding:32px 16px;background:var(--bg);color:#e2e8f0;font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+.wrap{max-width:1000px;margin:auto}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:0 0 18px}
+button{border:1px solid var(--border);background:var(--panel);color:#e2e8f0;padding:9px 13px;border-radius:8px;font-weight:650;cursor:pointer;transition:transform .18s ease,border-color .18s ease,background .18s ease}
+button:hover{transform:translateY(-2px);border-color:var(--soft);background:#172554}
+.markdown-body{padding:clamp(16px,4vw,36px);border:1px solid var(--border);border-radius:12px;background:var(--bg)}
+.markdown-body table{width:100%;background:transparent!important;border-collapse:collapse}
+.markdown-body td,.markdown-body th{background:transparent!important;border-color:var(--border)!important}
+.markdown-body img{max-width:100%}
+.status{color:var(--mint);font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="toolbar"><strong>README preview</strong><button onclick="loadReadme()">Reload README</button><span id="status" class="status">Loading…</span></div>
+<article id="readme" class="markdown-body"></article>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+async function loadReadme(){
+ const status=document.getElementById('status');
+ status.textContent='Loading README…';
+ try{
+   const response=await fetch('https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/main/README.md');
+   if(!response.ok)throw new Error('HTTP '+response.status);
+   const md=await response.text();
+   document.getElementById('readme').innerHTML=marked.parse(md);
+   status.textContent='README loaded';
+ }catch(e){status.textContent='Unable to load README. Open this preview via a local server or check network access.';}
+}
+loadReadme();
+</script>
+</body>
+</html>
