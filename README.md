@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1>Raj Rathod</h1>
+<img src="https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/main/profile-banner.svg" width="100%" alt="Raj Rathod AI and Machine Learning profile banner" />
+
 <p><strong>AI / ML Developer · LLM & Agent Builder</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;LangChain+%7C+Agents+%7C+Tool+Development;Building+and+Experimenting+with+AI" alt="Animated intro" />
@@ -218,6 +219,6 @@ Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · FastAPI · F
 
 <i>Learning, experimenting, and building—one project at a time.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:0f172a&height=110&section=footer" width="100%" alt="Footer" />
+<p><sub>AI · ML · Deep Learning · Generative AI · Agent Systems</sub></p>
 
 </div>
