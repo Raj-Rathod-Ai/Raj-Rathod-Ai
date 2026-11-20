@@ -178,7 +178,7 @@ Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · FastAPI · F
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Raj-Rathod-Ai&show_icons=true&hide_border=true&bg_color=0b1220&title_color=e2e8f0&icon_color=93c5fd&text_color=f8fafc&theme=transparent" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Rathod-Ai&hide_border=true&background=0b1220&ring=93c5fd&fire=e2e8f0&currStreakLabel=f8fafc&sideLabels=e2e8f0&dates=93c5fd" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Rathod-Ai&hide_border=true&background=0b1220&ring=60a5fa&fire=86efac&currStreakLabel=60a5fa&currStreakNum=f8fafc&sideLabels=e2e8f0&sideNums=f8fafc&dates=93c5fd&stroke=334155" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Rathod-Ai&layout=compact&hide_border=true&bg_color=0b1220&title_color=e2e8f0&text_color=f8fafc" height="160" />
 
