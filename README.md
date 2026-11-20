@@ -1,15 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:171717,50:292524,100:57534e&height=230&section=header&text=RAJ%20RATHOD&fontSize=52&fontColor=f5f5f4&fontAlignY=38&animation=twinkling&desc=AI%20%2F%20ML%20DEVELOPER%20%E2%80%A2%20LLM%20%26%20AGENT%20BUILDER&descAlignY=62&descSize=16" width="100%" alt="Raj Rathod profile banner" />
-
-<a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-57534e?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/raj-rathod-ai/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-404040?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rathodraj1504@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-78716c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Rathod-Raj-Ai/"><img src="https://img.shields.io/badge/LEETCODE-Profile-525252?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<h1>Raj Rathod</h1>
+<p><strong>AI / ML Developer · LLM & Agent Builder</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3000&pause=800&color=B0A99F&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;LangChain+%7C+Agents+%7C+Tool+Development;Building+and+Experimenting+with+AI" alt="Animated intro" />
 
-</div>
 
 <br/>
 
@@ -195,11 +190,7 @@ Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · FastAPI · F
 ### 🐍 Contributions
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/output/github-contribution-grid-snake.svg" />
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Raj-Rathod-Ai/Raj-Rathod-Ai/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </div>
 
 ---
