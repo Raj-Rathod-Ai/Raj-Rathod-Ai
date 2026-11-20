@@ -3,7 +3,7 @@
 <h1>Raj Rathod</h1>
 <p><strong>AI / ML Developer · LLM & Agent Builder</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3000&pause=800&color=B0A99F&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;LangChain+%7C+Agents+%7C+Tool+Development;Building+and+Experimenting+with+AI" alt="Animated intro" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;LangChain+%7C+Agents+%7C+Tool+Development;Building+and+Experimenting+with+AI" alt="Animated intro" />
 
 
 <br/>
@@ -48,7 +48,7 @@ class RajRathod:
 
 <br/>
 
-<a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-57534e?style=for-the-badge" /></a>
+<a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-2563eb?style=for-the-badge" /></a>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Content-based movie and TV recommendations with text similarity.
 </table>
 
 <div align="center">
-<a href="https://github.com/Raj-Rathod-Ai?tab=repositories"><img src="https://img.shields.io/badge/More%20Projects-Repository%20List-57534e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Raj-Rathod-Ai?tab=repositories"><img src="https://img.shields.io/badge/More%20Projects-Repository%20List-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -149,13 +149,13 @@ Content-based movie and TV recommendations with text similarity.
 
 **LLMs · GenAI · Retrieval · Agent Development**
 
-<img src="https://img.shields.io/badge/LLMs-525252?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-57534e?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-404040?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Agent%20Workflows-78716c?style=flat-square" />
-<img src="https://img.shields.io/badge/Tool%20Calling-525252?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-57534e?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-404040?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-3b82f6?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1d4ed8?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent%20Workflows-86efac?style=flat-square" />
+<img src="https://img.shields.io/badge/Tool%20Calling-3b82f6?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-1d4ed8?style=flat-square" />
 
 **API · Data · Developer tools**
 
@@ -176,12 +176,12 @@ Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · FastAPI · F
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raj-Rathod-Ai&show_icons=true&hide_border=true&bg_color=1c1917&title_color=d6d3d1&icon_color=a8a29e&text_color=e7e5e4&theme=transparent" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Rathod-Ai&hide_border=true&background=1c1917&ring=a8a29e&fire=d6d3d1&currStreakLabel=e7e5e4&sideLabels=d6d3d1&dates=a8a29e" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raj-Rathod-Ai&show_icons=true&hide_border=true&bg_color=0b1220&title_color=e2e8f0&icon_color=93c5fd&text_color=f8fafc&theme=transparent" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Rathod-Ai&hide_border=true&background=0b1220&ring=93c5fd&fire=e2e8f0&currStreakLabel=f8fafc&sideLabels=e2e8f0&dates=93c5fd" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Rathod-Ai&layout=compact&hide_border=true&bg_color=1c1917&title_color=d6d3d1&text_color=e7e5e4" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Rathod-Ai&layout=compact&hide_border=true&bg_color=0b1220&title_color=e2e8f0&text_color=f8fafc" height="160" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Rathod-Ai&bg_color=1c1917&color=d6d3d1&line=a8a29e&point=e7e5e4&area=true&hide_border=true" width="100%" alt="GitHub activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Rathod-Ai&bg_color=0b1220&color=e2e8f0&line=93c5fd&point=f8fafc&area=true&hide_border=true" width="100%" alt="GitHub activity" />
 
 </div>
 
@@ -207,17 +207,17 @@ Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · FastAPI · F
 
 <div align="center">
 
-<a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/Portfolio-57534e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/raj-rathod-ai/"><img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rathodraj1504@gmail.com"><img src="https://img.shields.io/badge/Email-78716c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Raj-Rathod-Ai"><img src="https://img.shields.io/badge/GitHub-525252?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raj-rathod-ai/"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rathodraj1504@gmail.com"><img src="https://img.shields.io/badge/Email-86efac?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Raj-Rathod-Ai"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Raj-Rathod-Ai&label=PROFILE%20VIEWS&color=57534e&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Raj-Rathod-Ai&label=PROFILE%20VIEWS&color=86efac&style=flat-square" alt="Profile views" />
 
 <br/><br/>
 
 <i>Learning, experimenting, and building—one project at a time.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:57534e,50:292524,100:171717&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:0f172a&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
