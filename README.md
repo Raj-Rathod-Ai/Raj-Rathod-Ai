@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:292524,100:57534e&height=230&section=header&text=RAJ%20RATHOD&fontSize=52&fontColor=f5f5f4&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20DEVELOPER%20%E2%80%A2%20LLM%20%26%20AGENT%20BUILDER&descAlignY=62&descSize=16" width="100%" alt="Raj Rathod header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:171717,50:292524,100:57534e&height=230&section=header&text=RAJ%20RATHOD&fontSize=52&fontColor=f5f5f4&fontAlignY=38&animation=twinkling&desc=AI%20%2F%20ML%20DEVELOPER%20%E2%80%A2%20LLM%20%26%20AGENT%20BUILDER&descAlignY=62&descSize=16" width="100%" alt="Raj Rathod profile banner" />
 
 <a href="https://rathodrajai.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-57534e?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/raj-rathod-ai/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-404040?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
